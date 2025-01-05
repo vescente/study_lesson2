@@ -1,4 +1,4 @@
-correct_year = 1799 
+correct_year = 1799
 
 while True:
     user_input = input("Введите год рождения: ")
